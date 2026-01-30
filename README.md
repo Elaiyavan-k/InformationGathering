@@ -74,7 +74,8 @@ Host: example.com
 ## httprint
 ### output
 
-![WhatsApp Image 2026-01-30 at 9 39 37 AM](https://github.com/user-attachments/assets/7ccdd53f-7cf7-4969-9724-a84a04ad653d)
+<img width="1107" height="536" alt="image" src="https://github.com/user-attachments/assets/8122f843-6cd1-4a7e-ace4-9f163ae8a4c4" />
+
 
 
 
